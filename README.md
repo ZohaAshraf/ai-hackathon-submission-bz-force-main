@@ -15,7 +15,7 @@
 <br/>
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-stack--sense.web.app-00E5FF?style=for-the-badge)](https://stack-sense.web.app/)
-[![Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-Watch%20Now-EF9F27?style=for-the-badge)](https://your-video-url-here.com)
+[![Video Demo](https://img.shields.io/badge/🎥%20Video%20Demo-Watch%20Now-EF9F27?style=for-the-badge)](https://github.com/user-attachments/assets/4b510c68-9502-4deb-a4b1-be8d5f99ac49)
 [![Devpost](https://img.shields.io/badge/🏆%20Devpost-Submission-E24B4A?style=for-the-badge&logo=devpost)](https://devpost.com/your-submission-link)
 
 </div>
